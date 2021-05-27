@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecLog", "SecLog\SecLog.csproj", "{53BF2BA2-20EA-4DEC-A076-D66D78E5696B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53BF2BA2-20EA-4DEC-A076-D66D78E5696B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BF2BA2-20EA-4DEC-A076-D66D78E5696B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BF2BA2-20EA-4DEC-A076-D66D78E5696B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BF2BA2-20EA-4DEC-A076-D66D78E5696B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
